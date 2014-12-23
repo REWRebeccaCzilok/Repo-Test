@@ -1,0 +1,11 @@
+/*So More Testing!*/
+body {
+	padding: 0;
+	margin: 0;
+	border-top: 5px solid #D5D962;
+	font-family: 'Open Sans', sans-serif;
+}
+.wrap {
+	margin: 0 auto;
+	width: 900px;
+}
